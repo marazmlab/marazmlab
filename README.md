@@ -1,10 +1,14 @@
 # Hi, I'm Marek! 👋
 
-### Junior Frontend Developer | React & Three.js | Modern Web Technologies
+### Junior Frontend Developer | React & Javascript | Modern Web Technologies
 
 I am a junior frontend developer with a background in graphic design and product photo retouching in the e-commerce industry. My studies in architecture and computer technologies have shaped my ability to merge creativity with technical problem-solving.
 
 I’m passionate about crafting intuitive and efficient user interfaces, optimizing workflows, and making applications not only functional but delightful to use.
+
+&nbsp;
+
+*Growing skills, delivering value – committed to the journey from junior to expert.*
 
 &nbsp;
 
@@ -14,18 +18,24 @@ I’m passionate about crafting intuitive and efficient user interfaces, optimiz
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Fetch API](https://img.shields.io/badge/fetch%20api-%23000000.svg?style=for-the-badge&logoColor=white)
 
 ### **Build Tools & DevOps:**
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Babel](https://img.shields.io/badge/babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### **Styling & Design:**
+![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/responsive%20design-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 

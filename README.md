@@ -28,6 +28,7 @@ I’m passionate about crafting intuitive and efficient user interfaces, optimiz
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![AI Assisted](https://img.shields.io/badge/AI%20Assisted-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ### **Styling & Design:**
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)

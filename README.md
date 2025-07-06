@@ -4,11 +4,7 @@
 
 I am a junior frontend developer with a background in graphic design and product photo retouching in the e-commerce industry. My studies in architecture and computer technologies have shaped my ability to merge creativity with technical problem-solving.
 
-I’m passionate about crafting intuitive and efficient user interfaces, optimizing workflows, and making applications not only functional but delightful to use.
-
-&nbsp;
-
-*Growing skills, delivering value – committed to the journey from junior to expert.*
+I’m passionate about crafting intuitive and efficient user interfaces, optimizing workflows, and making applications not only functional but enjoyable to use.
 
 &nbsp;
 
@@ -30,6 +26,8 @@ I’m passionate about crafting intuitive and efficient user interfaces, optimiz
 ![Babel](https://img.shields.io/badge/babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI%20Assisted-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Styling & Design:**
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -45,15 +43,25 @@ I’m passionate about crafting intuitive and efficient user interfaces, optimiz
 
 **Technical Skills:**
 - **Modern React Development** - Hooks, functional components, state management
-- **3D Web Graphics** - Three.js integration and performance optimization  
-- **DevOps Mindset** - CI/CD pipelines, automated deployments, build optimization
+- **3D Web Graphics** - Three.js integration and performance
+- **DevOps Mindset** - CI/CD pipelines, automated deployments
 - **Responsive Design** - Mobile-first approach with cross-browser compatibility
 
 **Soft Skills:**
-- **Problem-Solving** - Debugging complex deployment issues and performance bottlenecks
-- **Continuous Learning** - Self-taught Three.js and advanced React patterns
-- **Attention to Detail** - Pixel-perfect implementations with design background
+- **Problem-Solving** - Debugging complex deployment issues
+- **Continuous Learning** - Self-taught advanced React patterns and other technologies
+- **Attention to Detail** -  UI implementations based on design experience
 - **Project Management** - Full project lifecycle from concept to production
+
+&nbsp;
+
+## 🤖 My Approach to AI-Assisted Learning
+
+Throughout my learning process, I’ve used AI tools (like ChatGPT) as a coding buddy and mentor—never to replace my own work, but to help me understand complex concepts, solve tricky bugs, and learn faster.
+
+For me, AI is just the next step in a long tradition: developers have always used Stack Overflow, forums, or advice from teammates to move forward. AI is simply a new, interactive way to learn and problem-solve—nothing more, nothing less.
+
+I stay mindful of ethical and legal aspects, making sure my code is original and that I understand what I deliver. AI is a great assistant, but it’s up to me to do the thinking.
 
 &nbsp;
 
@@ -81,7 +89,7 @@ I’m passionate about crafting intuitive and efficient user interfaces, optimiz
 ## 📂 **Featured Projects**
 
 ### [🌐 Interactive Portfolio](https://marbel.tech)
-React + Three.js + Styled Components | **Live Production App**
+React + Three.js + Styled Components | **Deployed App**
 - 3D animated background with optimized performance
 - Dynamic theme switching (light/dark mode)
 - Automated CI/CD deployment pipeline

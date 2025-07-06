@@ -4,7 +4,7 @@
 
 I am a junior frontend developer with a background in graphic design and product photo retouching in the e-commerce industry. My studies in architecture and computer technologies have shaped my ability to merge creativity with technical problem-solving.
 
-I’m passionate about crafting intuitive and efficient user interfaces, optimizing workflows, and making applications not only functional but enjoyable to use.
+I love intuitive and efficient user interfaces, optimizied workflows, and applications not only functional but enjoyable to use.
 
 &nbsp;
 
